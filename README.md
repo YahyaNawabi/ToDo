@@ -16,7 +16,7 @@ A simple and interactive task manager web app built with HTML, CSS, and JavaScri
 - JavaScript (ES6)
 
 ## 📂 Getting Started
-1. Visit the live app here: [Calculator App](https://yahyanawabi.github.io/ToDo/)
+1. Visit the live app here: [ToDo App](https://yahyanawabi.github.io/ToDo/)
 
 
 
